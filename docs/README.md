@@ -8,7 +8,7 @@ I am currently working as an explosives safety engineer for the U.S. Navy.  I ha
 
 ### Projects & Interests
 
-#### qdmap
+#### [qdmap](https://josh-spatial.github.io/qdmap/)
 
 This is a QGIS plugin I would like to develop with Python for creating explosives safety site plans.
 
