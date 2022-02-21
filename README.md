@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/josh-spatial/josh-spatial.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently working as an explosives safety engineer for the U.S. Navy.  I have a science and civil engineering background.  I am getting back into coding.  It has been more than 10 years since my first exposure to coding in Python.  I have some experience with basic coding while "ricing" my various Linux configurations over the years.  
+### Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- B.S. Physical Sciences, University of Maryland 
+- B.S. Civil Engineering Technology, Old Dominion University
 
-### Markdown
+## Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### qdmap
 
-```markdown
-Syntax highlighted code block
+This is a QGIS plugin I would like to develop with Python for creating explosives safety site plans.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/josh-spatial/josh-spatial.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
