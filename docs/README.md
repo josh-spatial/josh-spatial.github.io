@@ -14,7 +14,7 @@ This is a QGIS plugin I would like to develop with Python for creating explosive
 
 #### [QGIS](https://qgis.org/en/site/)
 
-Open source geographic information system software.
+A Free and Open Source Geographic Information System.
 
 #### Emacs 
 
