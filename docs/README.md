@@ -12,6 +12,10 @@ I am currently working as an explosives safety engineer for the U.S. Navy.  I ha
 
 This is a QGIS plugin I would like to develop with Python for creating explosives safety site plans.
 
+#### [QGIS](https://qgis.org/en/site/)
+
+Open source geographic information system software.
+
 #### Emacs 
 
 I don't actually contribute code to Emacs.  I just like using it and configuring it, specifically Doom Emacs for general writing and note taking.  I like to use the vim keybindings, and I love the lightweight functionality of it.
