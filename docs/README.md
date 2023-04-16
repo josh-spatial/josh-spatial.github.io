@@ -11,7 +11,7 @@ I am currently working as an explosives safety engineer for the U.S. Navy.  I ha
 
 #### [qdmap](https://josh-spatial.github.io/qdmap/)
 
-This is a QGIS plugin I would like to develop with Python for creating explosives safety site plans.
+This is a QGIS plugin I would like to develop with Python for creating explosives safety site plans. Right now I'm basing its calculations on NATO's Allied Ammunition Storage and Transport Publication 1 (AASTP-1, Edition C, Version 1). 
 
 #### [QGIS](https://qgis.org/en/site/)
 
@@ -23,8 +23,9 @@ I don't actually contribute code to Emacs.  I just like using it and configuring
 
 #### Linux
 Favorite distros:
+- Ubuntu (Yes, I said it.)
 - Arch Linux
+- Manjaro
 - KDE Neon
 - Linux Mint
-- Manjaro
 
